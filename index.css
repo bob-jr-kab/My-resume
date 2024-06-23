@@ -1,6 +1,5 @@
 body {
   background-color: #f3f7ec;
-  font-size: 1rem;
 
   font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
     "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
@@ -10,7 +9,7 @@ h1 {
   color: #4d869c;
 }
 h1 {
-  font-size: 7rem;
+  font-size: 2rem;
   font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
 }
 
